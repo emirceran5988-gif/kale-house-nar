@@ -136,11 +136,21 @@ const rooms = [
     key: "room106",
     category: "jacuzzi",
     images: [
-      "images/106.jpeg.jpeg",
       "media/rooms-web/106/106-1.jpg",
       "media/rooms-web/106/106-2.jpg",
       "media/rooms-web/106/106-3.jpg",
-      "106/WhatsApp Image 2025-08-29 at 01.37.08.jpeg"
+      "media/rooms-web/106/106-4.jpg",
+      "media/rooms-web/106/106-5.jpg",
+      "media/rooms-web/106/106-6.jpg",
+      "media/rooms-web/106/106-7.jpg",
+      "media/rooms-web/106/106-8.jpg",
+      "media/rooms-web/106/106-9.jpg",
+      "media/rooms-web/106/106-10.jpg",
+      "media/rooms-web/106/106-11.jpg",
+      "media/rooms-web/106/106-12.jpg",
+      "media/rooms-web/106/106-13.jpg",
+      "media/rooms-web/106/106-14.jpg",
+      "media/rooms-web/106/106-15.jpg"
     ],
     icons: ["king", "jacuzzi", "cave", "wifi", "breakfast", "bath"]
   },

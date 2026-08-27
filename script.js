@@ -65,10 +65,12 @@ const rooms = [
     key: "room101",
     category: "jacuzzi",
     images: [
-      "media/rooms-web/101/101-4.jpg",
-      "media/rooms-web/101/101-6.jpg",
       "media/rooms-web/101/101-1.jpg",
+      "media/rooms-web/101/101-2.jpg",
       "media/rooms-web/101/101-3.jpg",
+      "media/rooms-web/101/101-4.jpg",
+      "media/rooms-web/101/101-5.jpg",
+      "media/rooms-web/101/101-6.jpg",
       "media/rooms-web/101/101-7.jpg",
       "media/rooms-web/101/101-8.jpg",
       "101/room101.jpeg"
@@ -81,6 +83,8 @@ const rooms = [
     category: "standard",
     images: [
       "media/rooms-web/102/102-1.jpg",
+      "media/rooms-web/102/102-2.jpg",
+      "media/rooms-web/102/102-3.jpg",
       "images/102.jpeg",
       "images2/102.jpeg"
     ],
@@ -91,9 +95,10 @@ const rooms = [
     key: "room103",
     category: "standard",
     images: [
+      "media/rooms-web/103/103-1.jpg",
+      "media/rooms-web/103/103-2.jpg",
       "images/103 NO.jpg",
       "images/103.jpeg",
-      "media/rooms-web/103/103-1.jpg",
       "103/WhatsApp Image 2025-08-29 at 01.22.33.jpeg"
     ],
     icons: ["king", "ac", "stoneCave", "wifi", "breakfast", "bath"]
@@ -104,10 +109,10 @@ const rooms = [
     category: "jacuzzi",
     images: [
       "media/rooms-web/104/104-1.jpg",
-      "images/104.jpeg",
-      "media/rooms-web/104/104-4.jpg",
       "media/rooms-web/104/104-2.jpg",
       "media/rooms-web/104/104-3.jpg",
+      "media/rooms-web/104/104-4.jpg",
+      "images/104.jpeg",
       "104/WhatsApp Image 2025-08-29 at 01.13.44.jpeg"
     ],
     icons: ["king", "jacuzzi", "hammam", "cave", "wifi", "breakfast", "bath"]
@@ -117,9 +122,11 @@ const rooms = [
     key: "room105",
     category: "jacuzzi",
     images: [
-      "images/105.jpg",
-      "images/105 Nolu.jpg",
       "media/rooms-web/105/105-1.jpg",
+      "media/rooms-web/105/105-2.jpg",
+      "media/rooms-web/105/105-3.jpg",
+      "images/105 Nolu.jpg",
+      "images/105.jpg",
       "105/WhatsApp Image 2025-08-29 at 01.22.30.jpeg"
     ],
     icons: ["king", "jacuzzi", "ac", "stoneCave", "wifi", "breakfast", "bath"]
@@ -130,9 +137,9 @@ const rooms = [
     category: "jacuzzi",
     images: [
       "images/106.jpeg.jpeg",
-      "media/rooms-web/106/106-3.jpg",
-      "media/rooms-web/106/106-2.jpg",
       "media/rooms-web/106/106-1.jpg",
+      "media/rooms-web/106/106-2.jpg",
+      "media/rooms-web/106/106-3.jpg",
       "106/WhatsApp Image 2025-08-29 at 01.37.08.jpeg"
     ],
     icons: ["king", "jacuzzi", "cave", "wifi", "breakfast", "bath"]

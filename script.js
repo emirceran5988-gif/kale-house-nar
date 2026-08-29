@@ -95,10 +95,10 @@ const rooms = [
     key: "room103",
     category: "standard",
     images: [
-      "media/rooms-web/103/103-1.jpg",
-      "media/rooms-web/103/103-2.jpg",
       "images/103 NO.jpg",
       "images/103.jpeg",
+      "media/rooms-web/103/103-1.jpg",
+      "media/rooms-web/103/103-2.jpg",
       "103/WhatsApp Image 2025-08-29 at 01.22.33.jpeg"
     ],
     icons: ["king", "ac", "stoneCave", "wifi", "breakfast", "bath"]
